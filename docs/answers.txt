@@ -1,10 +1,19 @@
+#February 21, 2024
+# March 1st, 2021
+1.On branch master
+Your branch is up to date with 'origin/master'.
 
-9 git rev-list --count HEAD
-Feb 21, 2023 git log -1 --format=%cd -- README.md
-Branches are used to develop features and fix bugs
-Git status allows the user to inspect the working directory, git log only operates with the commited history
-git log --oneline -- Vehicle.h
->git log --oneline --grep="file"
-Polymorphism is the ability of an object to take many forms, Inheritance allows a new class to use properties from an existing class, Encapsulation is the bundling of data inorder to operate with the data as a single unit.
-The Dictator and Lieutenant workflows use a hierarchical structure for decision making while the integration manager uses a centralized integration point to resolve conflict.
-They would benefit becuase the Director and Lieutenant model allows for more efficent communication as the lieutenants can serve as a middle man for communication paths between the Director and developers.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	docs/
+
+nothing added to commit but untracked files present (use "git add" to track
+2. 9 git rev-list --count HEAD
+3. Feb 21, 2023 git log -1 --format=%cd -- README.md
+4. Branches are used to develop features and fix bugs
+5. Git status allows the user to inspect the working directory, git log only operates with the commited history
+6. git log --oneline -- Vehicle.h
+7. git log --oneline --grep="file"
+8. Polymorphism is the ability of an object to take many forms, Inheritance allows a new class to use properties from an existing class,  Encapsulation is the bundling of data inorder to operate with the data as a single unit.
+9. The Dictator and Lieutenant workflows use a hierarchical structure for decision making while the integration manager uses a centralized integration point to resolve conflict.
+10. They would benefit becuase the Director and Lieutenant model allows for more efficent communication as the lieutenants can serve as a middle man for communication paths between the Director and developers.
