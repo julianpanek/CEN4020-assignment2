@@ -1,1 +1,10 @@
-ECHO is on.
+
+9 git rev-list --count HEAD
+Feb 21, 2023 git log -1 --format=%cd -- README.md
+Branches are used to develop features and fix bugs
+Git status allows the user to inspect the working directory, git log only operates with the commited history
+git log --oneline -- Vehicle.h
+>git log --oneline --grep="file"
+Polymorphism is the ability of an object to take many forms, Inheritance allows a new class to use properties from an existing class, Encapsulation is the bundling of data inorder to operate with the data as a single unit.
+The Dictator and Lieutenant workflows use a hierarchical structure for decision making while the integration manager uses a centralized integration point to resolve conflict.
+They would benefit becuase the Director and Lieutenant model allows for more efficent communication as the lieutenants can serve as a middle man for communication paths between the Director and developers.
